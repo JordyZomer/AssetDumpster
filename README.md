@@ -1,0 +1,2 @@
+# AssetDumpster
+Asset discovery framework
